@@ -118,10 +118,12 @@ export default function About() {
                 challenge the way I think. I'm learning to 
                 <span className="font-semibold text-[#d3869b]"> draw and sketch </span>, enjoy 
                 <span className="font-semibold text-[#8ec07c]"> photography </span>, playing 
-                <span className="font-semibold text-[#fe8019]">video games </span>, listening to 
-                <span className="font-semibold text-[#83a598]">music </span> from every corner of the world-even 
-                when I don't understand the language-and spending time with friends and family. And somewhere in 
-                between all of that, I'm still chasing one childhood dream: trying to become Batman🦇.
+                <span className="font-semibold text-[#fe8019]">video games </span>, 
+                <span className="font-semibold text-[#b8bb26]"> workout and hike </span>, 
+                listening to <span className="font-semibold text-[#83a598]">music </span> 
+                from every corner of the world-even when I don't understand the language-and 
+                spending time with friends and family. And somewhere in between all of that, 
+                I'm still chasing one childhood dream: trying to become Batman🦇.
               </p>
 
             </div>
