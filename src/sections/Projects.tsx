@@ -1,6 +1,5 @@
 import { useState } from "react";
 import { motion } from "framer-motion";
-import { FolderGit2 } from "lucide-react";
 
 import Container from "../components/ui/Container";
 import SectionTitle from "../components/ui/SectionTitle";
