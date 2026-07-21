@@ -96,12 +96,12 @@ export default function About() {
                   Priyanshu Shekhar
                 </span>, a Software Engineer recently graduated with my Master's in
                 Computer Science with a specialization in Artificial Intelligence
-                at the University of Southern California.
+                from the <span className="font-semibold text-[#fb4934]"> University of Southern California</span>.
               </p>
 
               <p>
-                I've been curious for as long as I can remember. As a kid, I was always 
-                asking why-pulling things apart, chasing ideas, and getting excited about 
+                A little about me: I've been curious for as long as I can remember. As a kid, I was always 
+                asking why by pulling things apart, chasing ideas, or getting excited about 
                 figuring out how things worked. That same curiosity eventually led me to 
                 software engineering, where every challenge feels like a puzzle waiting to 
                 be solved. Today, I'm passionate about building intelligent software at the 
@@ -112,13 +112,16 @@ export default function About() {
               </p>
 
               <p>
-                Outside of tech, I'm just as curious about the world. I love reading fiction 
-                alongside books on physics, philosophy, psychology, economics, and biographies that 
-                challenge the way I think. I'm learning to draw and sketch, enjoy photography, 
-                playing video games, listening to music from every corner of the world—even when 
-                I don't understand the language—and spending time with friends and family. And 
-                somewhere in between all of that, I'm still chasing one childhood dream: trying 
-                to become Batman🦇.
+                Outside of tech, I'm just as curious about the world. I love 
+                <span className="font-semibold text-[#fb4934]"> reading </span>
+                fiction alongside books on Physics, Philosophy, psychology, Economics, and Biographies that 
+                challenge the way I think. I'm learning to 
+                <span className="font-semibold text-[#d3869b]"> draw and sketch </span>, enjoy 
+                <span className="font-semibold text-[#8ec07c]"> photography </span>, playing 
+                <span className="font-semibold text-[#fe8019]">video games </span>, listening to 
+                <span className="font-semibold text-[#83a598]">music </span> from every corner of the world-even 
+                when I don't understand the language-and spending time with friends and family. And somewhere in 
+                between all of that, I'm still chasing one childhood dream: trying to become Batman🦇.
               </p>
 
             </div>
