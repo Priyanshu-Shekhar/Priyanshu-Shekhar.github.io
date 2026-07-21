@@ -3,7 +3,6 @@ import {
   Brain,
   Cpu,
   Database,
-  GraduationCap,
   Server,
 } from "lucide-react";
 
