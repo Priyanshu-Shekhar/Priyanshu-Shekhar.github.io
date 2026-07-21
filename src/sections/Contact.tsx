@@ -110,7 +110,7 @@ export default function Contact() {
                       Location
                     </p>
 
-                    <p>Goleta, California</p>
+                    <p>Santa Barbara, California</p>
 
                   </div>
 
