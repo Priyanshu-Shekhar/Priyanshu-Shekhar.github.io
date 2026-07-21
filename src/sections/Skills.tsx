@@ -6,7 +6,6 @@ import {
   Cloud,
   Wrench,
   Monitor,
-  ArrowRight,
 } from "lucide-react";
 
 import Container from "../components/ui/Container";
