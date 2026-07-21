@@ -20,7 +20,7 @@ const technologies = [
 
 const stats = [
   {
-    value: "3",
+    value: "4",
     label: "Years Coding",
   },
   {
@@ -402,7 +402,7 @@ export default function Hero() {
               </p>
 
               <p className="font-semibold">
-                Goleta, California
+                Santa Barbara, California
               </p>
 
               <p className="text-sm text-[#fb4934]">
