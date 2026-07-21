@@ -85,7 +85,7 @@ export default function Navbar() {
             </a>
 
             <a
-              href="https://www.linkedin.com/in/priyanshu-shekhar/"
+              href="https://www.linkedin.com/in/-priyanshu-shekhar/"
               target="_blank"
               rel="noreferrer"
             >
