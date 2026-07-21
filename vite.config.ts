@@ -8,5 +8,5 @@ export default defineConfig({
     tailwindcss(),
   ],
 
-  base: "/Priyanshu-Shekhar.github.io/",
+  base: "https://github.com/Priyanshu-Shekhar/Priyanshu-Shekhar.github.io.git",
 });
