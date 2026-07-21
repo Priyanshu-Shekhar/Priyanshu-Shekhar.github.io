@@ -172,8 +172,8 @@ export default function Hero() {
             >
               At 22, I've had the opportunity to build across AI systems,
               backend engineering, cloud infrastructure, and distributed
-              systems, learning that great software isn't just intelligent-
-              it's reliable, scalable, and built to solve real problems.
+              systems, learning that great software isn't just intelligent-it's 
+              reliable, scalable, and built to solve real problems.
               That's the philosophy I bring to every production system I
               design.
             </motion.p>
