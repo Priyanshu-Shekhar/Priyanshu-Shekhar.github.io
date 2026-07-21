@@ -4,7 +4,6 @@ import {
   Download,
   GitBranch as GitHub,
   Link as LinkedIn,
-  Mail,
   Sparkles,
 } from "lucide-react";
 
