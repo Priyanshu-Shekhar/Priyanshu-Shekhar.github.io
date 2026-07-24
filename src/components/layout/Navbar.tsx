@@ -95,7 +95,7 @@ export default function Navbar() {
               />
             </a>
 
-            <a href="mailto:101.priyanshushekhar@gmail.com">
+            <a href="mailto:priyanshu.shekhar.connect@gmail.com">
               <Mail
                 className="transition hover:text-[#fabd2f]"
                 size={20}
