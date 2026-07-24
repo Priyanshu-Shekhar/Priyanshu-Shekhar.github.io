@@ -52,7 +52,7 @@ export default function Footer() {
             />
           </a>
 
-          <a href="mailto:101.priyanshushekhar@gmail.com">
+          <a href="mailto:priyanshu.shekhar.connect@gmail.com">
             <Mail
               size={22}
               className="transition hover:text-[#fabd2f]"
