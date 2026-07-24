@@ -83,10 +83,10 @@ export default function Contact() {
                     </p>
 
                     <a
-                      href="mailto:101.priyanshushekhar@gmail.com"
+                      href="mailto:priyanshu.shekhar.connect@gmail.com"
                       className="transition hover:text-[#fabd2f]"
                     >
-                      101.priyanshushekhar@gmail.com
+                      priyanshu.shekhar.connect@gmail.com
                     </a>
 
                   </div>
@@ -120,7 +120,7 @@ export default function Contact() {
 
               <div className="mt-12">
 
-                <a href="mailto:101.priyanshushekhar@gmail.com">
+                <a href="mailto:priyanshu.shekhar.connect@gmail.com">
 
                   <Button>
 
