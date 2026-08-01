@@ -170,7 +170,7 @@ export default function Hero() {
               }}
               className="mt-8 max-w-2xl text-lg leading-9 text-[#d5c4a1]"
             >
-              At 22, I've had the opportunity to build across AI systems,
+              I've had the opportunity to build across AI systems,
               backend engineering, cloud infrastructure, and distributed
               systems, learning that great software isn't just intelligent 
               - it's reliable, scalable, and built to solve real problems.
