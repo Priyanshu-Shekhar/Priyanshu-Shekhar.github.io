@@ -15,8 +15,7 @@ export const education: Education[] = [
     duration: "2024 — 2026",
     location: "Los Angeles, CA",
     highlights: [
-      "Specialization in Artificial Intelligence",
-      "Graduated at 22-years-old"
+      "Specialization in Artificial Intelligence"
     ],
   },
 
