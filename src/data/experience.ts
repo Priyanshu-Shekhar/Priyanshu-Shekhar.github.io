@@ -33,7 +33,7 @@ export const experience: Experience[] = [
   },
 
   {
-    company: "Funded by Google",
+    company: "Collaboration with Google",
     role: "AI Engineer Intern",
     location: "Cal Poly Pomona",
     duration: "Feb 2024 — May 2024",
@@ -77,7 +77,7 @@ export const experience: Experience[] = [
   },
 
   {
-    company: "Funded by Northrop Grumman",
+    company: "Collaboration with Northrop Grumman",
     role: "Embedded Software Engineer",
     location: "Cal Poly Pomona",
     duration: "Aug 2023 — Jan 2024",
