@@ -18,7 +18,7 @@ export const experience: Experience[] = [
 
     technologies: [
       "Python-based LLM testing",
-      "",
+      "Responsible AI",
       "Synthetic Data Generation",
       "Fuzz Testing",
       "Prompt Injection",
