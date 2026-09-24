@@ -402,11 +402,11 @@ export default function Hero() {
               </p>
 
               <p className="font-semibold">
-                California, United States
+                California
               </p>
 
               <p className="text-sm text-[#fb4934]">
-                U.S.A
+                United States
               </p>
 
             </motion.div>
