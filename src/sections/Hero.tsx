@@ -402,7 +402,7 @@ export default function Hero() {
               </p>
 
               <p className="font-semibold">
-                Santa Barbara, California
+                California, United States
               </p>
 
               <p className="text-sm text-[#fb4934]">
