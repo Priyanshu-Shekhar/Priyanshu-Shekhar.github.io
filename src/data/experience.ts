@@ -17,8 +17,8 @@ export const experience: Experience[] = [
     duration: "Oct 2025 — May 2026",
 
     technologies: [
-      "Python",
-      "AI Agents",
+      "Python-based LLM testing",
+      "",
       "Synthetic Data Generation",
       "Fuzz Testing",
       "Prompt Injection",
@@ -33,9 +33,9 @@ export const experience: Experience[] = [
   },
 
   {
-    company: "Collaboration with Google",
-    role: "AI Engineer Intern",
-    location: "Cal Poly Pomona",
+    company: "California State Polytechnic University-Pomona",
+    role: "AI Ethics Researcher",
+    location: "Pomona, California",
     duration: "Feb 2024 — May 2024",
 
     technologies: [
@@ -47,7 +47,7 @@ export const experience: Experience[] = [
     ],
 
     bullets: [
-        "Architected Python backend services, REST APIs, and MySQL pipelines to support real-time analysis of 50,000+ AI evaluation records.",
+        "Architected Python backend services, REST APIs, and MySQL database to support real-time analysis of 50,000 AI evaluation records.",
         "Developed a full-stack React application with modular backend APIs, improving maintainability and accelerating feature development.",
         "Built SQL and Pandas data analysis pipelines to evaluate LLM bias, improving reporting accuracy and reproducibility.",
         "Collaborated across the software development lifecycle to deliver scalable, production-ready AI evaluation tools."
@@ -55,9 +55,9 @@ export const experience: Experience[] = [
   },
 
   {
-    company: "Funded by United States Department of Agriculture",
+    company: "California State Polytechnic University-Pomona",
     role: "Machine Learning Engineer",
-    location: "Cal Poly Pomona",
+    location: "Pomona, California",
     duration: "May 2023 — Feb 2024",
 
     technologies: [
@@ -70,9 +70,30 @@ export const experience: Experience[] = [
 
     bullets: [
         "Reimplemented the STARFM image fusion algorithm as USTARFM for agricultural forcasting, improving prediction accuracy by 15%.",
-        "Designed distributed AWS EC2 pipelines to process 300+ satellite images for scalable model training and inference.",
-        "Built feature engineering and preprocessing pipelines for large-scale geospatial datasets, increasing model performance by 25%.",
-        "Optimized workload distribution between edge devices and cloud infrastructure, reducing processing latency by 35%."
+        "Designed distributed AWS EC2 pipelines to process GIS database for scalable model training and inference.",
+        "Built feature extraction and data preprocessing pipelines for large-scale geospatial datasets, increasing model performance.",
+        "Optimized workload distribution between edge device and cloud infrastructure, reducing processing latency by 35%."
+    ],
+  },
+  {
+    company: "California State Polytechnic University-Pomona",
+    role: "Cybersecurity Researcher",
+    location: "Pomona, California",
+    duration: "May 2023 — Feb 2024",
+
+    technologies: [
+      "Web Security",
+      "BeautifulSoup",
+      "Web Crawlers",
+      "REST APIs",
+      "Tor Browser"
+    ],
+
+    bullets: [
+        "Built Python-based web crawlers and parsers with Beautiful Soup and REST APIs to scale data collection from public and .onion sources.",
+        "Designed and deployed text preprocessing pipelines data feature quality and malicious website detection accuracy for malicious-site classification",
+        "Contributed to the creation of a largest labeled dataset used to train supervised ML models for malicious website detection, supporting fraud research use cases.",
+        "Applied testing, data validation, and quality checks to ensure consistent training data, enabling repeatable evaluation across different experiments."
     ],
   },
 
