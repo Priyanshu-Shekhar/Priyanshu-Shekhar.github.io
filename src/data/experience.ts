@@ -92,7 +92,7 @@ export const experience: Experience[] = [
     bullets: [
         "Built Python-based web crawlers and parsers with Beautiful Soup and REST APIs to scale data collection from public and .onion sources.",
         "Designed and deployed text preprocessing pipelines data feature quality and malicious website detection accuracy for malicious-site classification",
-        "Contributed to the creation of a largest labeled dataset used to train supervised ML models for malicious website detection, supporting fraud research use cases.",
+        "Contributed to the creation of a largest labeled dataset used to train supervised ML models for malicious website detection.",
         "Applied testing, data validation, and quality checks to ensure consistent training data, enabling repeatable evaluation across different experiments."
     ],
   },
