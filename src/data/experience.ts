@@ -79,7 +79,7 @@ export const experience: Experience[] = [
     company: "California State Polytechnic University-Pomona",
     role: "Cybersecurity Researcher",
     location: "Pomona, California",
-    duration: "May 2023 — Feb 2024",
+    duration: "Aug 2023 — Dec 2023",
 
     technologies: [
       "Web Security",
