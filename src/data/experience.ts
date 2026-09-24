@@ -33,7 +33,7 @@ export const experience: Experience[] = [
   },
 
   {
-    company: "California State Polytechnic University-Pomona",
+    company: "California State Polytechnic University-Pomona (SLOTHLab)",
     role: "AI Ethics Researcher",
     location: "Pomona, California",
     duration: "Feb 2024 — May 2024",
@@ -55,7 +55,7 @@ export const experience: Experience[] = [
   },
 
   {
-    company: "California State Polytechnic University-Pomona",
+    company: "California State Polytechnic University-Pomona (Prof. John Korah's Lab)",
     role: "Machine Learning Engineer",
     location: "Pomona, California",
     duration: "May 2023 — Feb 2024",
@@ -76,7 +76,7 @@ export const experience: Experience[] = [
     ],
   },
   {
-    company: "California State Polytechnic University-Pomona",
+    company: "California State Polytechnic University-Pomona (CALSys Lab)",
     role: "Cybersecurity Researcher",
     location: "Pomona, California",
     duration: "Aug 2023 — Dec 2023",
