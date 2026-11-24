@@ -11,6 +11,27 @@ export interface Experience {
 
 export const experience: Experience[] = [
   {
+    company: "Handshake AI",
+    role: "AI Evaluation Specialist",
+    location: "Remote",
+    duration: "September 2026 — October 2026",
+
+    technologies: [
+      "Multi-modal LLM evaluation",
+      "Dataset Quality Assurance",
+      "Error Analysis & Failure-Mode Detection",
+      "Benchmark Development",
+      "Data Labeling & Taxonomy Design",
+    ],
+
+    bullets: [
+        "Engineered AI evaluation rubrics to standardize complex reviews, surface edge cases, and guide model-quality improvements.",
+        "Analyzed model outputs against technical criteria, identifying recurring errors and producing clear, actionable quality-improvement reports.",
+        "Validated labeled datasets using systematic quality checks, resolving ambiguities while preserving annotation consistency under deadlines.",
+        "Led open and clear communication across teams, translating evaluation findings into clear requirements and accelerating resolution of high-priority issues."
+    ],
+  },
+  {
     company: "University of Southern California",
     role: "Research Assistant",
     location: "Los Angeles, California",
