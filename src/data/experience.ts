@@ -13,13 +13,13 @@ export const experience: Experience[] = [
   {
     company: "Handshake AI",
     role: "AI Evaluation Specialist",
-    location: "Remote",
-    duration: "September 2026 — October 2026",
+    location: "California (Remote)",
+    duration: "Sep 2026 — Oct 2026",
 
     technologies: [
       "Multi-modal LLM evaluation",
       "Dataset Quality Assurance",
-      "Error Analysis & Failure-Mode Detection",
+      "Failure-Mode Detection",
       "Benchmark Development",
       "Data Labeling & Taxonomy Design",
     ],
